@@ -1,0 +1,10 @@
+#Topics
+
+pose_topic: "/base_pose_ground_truth"
+odom_topic: "/odom"
+vel_topic: "/cmd_vel"
+
+#End Position
+
+end_pose_x: 4.5
+end_pose_y: 9.0
