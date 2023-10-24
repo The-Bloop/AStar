@@ -1,10 +1,12 @@
 #Topics
-
 pose_topic: "/base_pose_ground_truth"
 odom_topic: "/odom"
 vel_topic: "/cmd_vel"
 
-#End Position
+#Start Position
+start_pose_x: 0
+start_pose_y: 5
 
-end_pose_x: 4.5
-end_pose_y: 9.0
+#End Position
+end_pose_x: 6
+end_pose_y: 4
